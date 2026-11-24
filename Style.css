@@ -1,0 +1,44 @@
+body {
+    background-color: #111827;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    
+  }
+  
+  h1 {
+   
+  }
+ 
+  .score-board {
+    background-color: #1f2937;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .score-board p {
+    
+  }
+  
+  #score {
+    
+  }
+  
+  
+  #click-target {
+   
+  }
+  
+  #click-target:hover {
+    background-color: #0369a1;
+  }
+  
+  
